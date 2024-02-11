@@ -1,0 +1,28 @@
+# Vim temporary files
+*~
+.*~
+
+# Mac system files
+.DS_Store
+
+# Python virtual environments
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# Other files and directories to ignore
+*.log
+*.csv
+*.json
+secrets.py
+config.ini
