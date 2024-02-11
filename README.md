@@ -41,6 +41,12 @@ python ultiChat.py path/to/conversations.json [optional_output_filename.html]
 - **path/to/conversations.json**: Replace this with the path to your JSON file containing the ChatGPT conversation history.
 - **[optional_output_filename.html]**: Optionally, specify the name of the output HTML file. If omitted, the output will default to ultiChat.html in the current working directory.
 
+## General Information
+
+The `./scripts` directory in this project contains a few items that started off as the direction intended. Ultimately settled on the current option. They were useful and thought why not keep them around.  
+
+The python code has zero dependencies on the `./scripts` directory.
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, please open an issue or submit a pull request.
