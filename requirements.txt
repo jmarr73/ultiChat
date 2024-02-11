@@ -1,0 +1,2 @@
+# UltiChat currently uses only the Python Standard Library, hence no external dependencies are required.
+# This file is provided for future compatibility, should there be a need to include external libraries.
